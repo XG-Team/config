@@ -1,0 +1,29 @@
+{
+  "ff_omain": "https://cdn.discordapp.com/attachments/1144321686162919594/1177570126015504434/libmain_backup.so?ex=65cf45a4&is=65bcd0a4&hm=4603f84023c791a1cb7a3feeed9187036e0039f2f464d40d561a4aa438ddfc41&",
+  "ff_main": "https://cdn.discordapp.com/attachments/1144321686162919594/1176480435526709279/libmain.so?ex=65d48949&is=65c21449&hm=01bf20478d1047bb22493345f90fd3aea694ebebab58ae1689b586e4e954df66&",
+  "ff_xg": "https://cdn.discordapp.com/attachments/1144321686162919594/1202441298129190953/libxg.so?ex=65cd77b9&is=65bb02b9&hm=f969dd3ade93b4f40d57bdf3fc46282a230d925417c16db5cd0a3548175c1f50&",
+  "ff_xgesp" : "https://cdn.discordapp.com/attachments/1202044547623047209/1203366250751856670/libxg.so?ex=65d0d527&is=65be6027&hm=d6cb11e084eaae145198fdabe782c278ed5642dff4c39f10b53ae6b8fcb6ddc2&",
+  
+  "ff_omain64": "https://cdn.discordapp.com/attachments/1144321708245913640/1177570560549584966/libmain_backup.so?ex=65cf460b&is=65bcd10b&hm=e987bc1d19e2c70d9e5d2c5117eaead49ab6b0d94253a393663a6b9bd0e17b2d&",
+  "ff_main64": "https://cdn.discordapp.com/attachments/1144321708245913640/1177570353837510676/libmain.so?ex=65cf45da&is=65bcd0da&hm=4168f48fef6906b7a601820e671d16850083c00445b0619fab211f5d7635d1b2&",
+  "ff_xg64": "https://cdn.discordapp.com/attachments/1144321708245913640/1202441331608256582/libxg.so?ex=65cd77c1&is=65bb02c1&hm=7047614b49e8ee8090e9b10ee271d2ee189c9ad55dba9889dc1ed5f4d83cf5f1&",
+  "ff_xgesp64" : "https://cdn.discordapp.com/attachments/1202044590849523823/1203366327109034004/libxg.so?ex=65d0d539&is=65be6039&hm=366ad7cde504cedab8541b81b09c06d35ff6f4d8f4eb7a6345bf74c1ece917d6&",
+  
+  "ab_main": "https://cdn.discordapp.com/attachments/1144332555559108669/1176399868319772682/libINTLCore.so?ex=65d43e41&is=65c1c941&hm=75c7d8ea136d19fad50106e01a94351e7c745bbfa58f9d333c4ce991d4af048e&",
+  "ab_xg": "https://cdn.discordapp.com/attachments/1144332555559108669/1203233573004378152/libxg.so?ex=65d05996&is=65bde496&hm=407820908a9ec669e30e7c1f349b35ae0f185e1324a09e310af2e7b867e9be13&",
+
+  "aov_main": "https://cdn.discordapp.com/attachments/1186886845787820042/1199535744423821342/libmain.so?ex=65cc2037&is=65b9ab37&hm=f5c719f874cb95868b30b83c7b72033df783e5908de3665af1b437c64d0bd5d5&",
+  "aov_xg": "https://cdn.discordapp.com/attachments/1186886845787820042/1199623834299535461/libxg.so?ex=65cc7242&is=65b9fd42&hm=9433a68d8ff12df9c37f172e809c154467ae4731a28d3863cc11d7eeca66fac2&",
+  
+  "codm_main": "https://cdn.discordapp.com/attachments/1144332347995607140/1202964866982477894/libmain.so?ex=65cf5f56&is=65bcea56&hm=058aecbb8cedc74e4e4c5d249868afc64b50d79c7621a76cb1e8b38a7e522f3c&",
+  "codm_main64": "https://cdn.discordapp.com/attachments/1144332371001356290/1202964829246193754/libmain.so?ex=65cf5f4d&is=65bcea4d&hm=0976a4a43a13b2cb894d5fed76fb7e25ffea184f7d8024a55d4887047b92da10&",
+  "codm_xg": "https://cdn.discordapp.com/attachments/1144332347995607140/1193154217708371978/libxg.so?ex=65d09875&is=65be2375&hm=11849afba5d8235d342fbea157662a02361d29750478b8d5d0276bdbb0a0869f&",
+  "codm_xg64": "https://cdn.discordapp.com/attachments/1144332371001356290/1193154554448056341/libxg.so?ex=65d098c5&is=65be23c5&hm=d660984d33176e0db9ea09cf30900a55f991fd80b3b9c6328d592d98cc30e1c2&",
+
+  "farlight_main64": "https://cdn.discordapp.com/attachments/1170284090130444378/1194313161818517604/liblilithpsp.so?ex=65d4cfcf&is=65c25acf&hm=3125e49c136ad7dde9bd927c2a3f73db865118ece44f12d995da3b8cdc63e0f0&",
+  "farlight_xg64": "https://cdn.discordapp.com/attachments/1170284090130444378/1194312921178710097/libxg.so?ex=65d4cf95&is=65c25a95&hm=e04c0e4a617cf8f5d3a19c5cc998cbe6643b3361e50a999d882e1a5c341d899e&",
+  
+  "farlight_omain": "https://cdn.discordapp.com/attachments/1170284059402981477/1190296926160162846/liblilithpsp_backup.so?ex=65cf6de5&is=65bcf8e5&hm=ba6571a1ba56ddde809036b7af1118a93b1004f5d9be7fcceca33f82847c21f7&",
+  "farlight_main": "https://cdn.discordapp.com/attachments/1170284059402981477/1190296710468096082/liblilithpsp.so?ex=65cf6db2&is=65bcf8b2&hm=30b41af578bdd1b1f39830a47f2e3e61774e8ed36384d63361d44045a9f4838c&",
+  "farlight_xg": "https://cdn.discordapp.com/attachments/1170284059402981477/1194312855068090368/libxg.so?ex=65d4cf85&is=65c25a85&hm=630dfbf6cc627dfa8e2be753c8ec5c5b2305bffeeca53266db374da4ee4954c9&"
+}
